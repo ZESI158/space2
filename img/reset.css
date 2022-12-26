@@ -13,12 +13,7 @@
 
 /* Adaptacion modo oscuro*/
 
-@media (prefers-color-scheme:dark){
-    :root{
-        --color-primario:#f0f0f0;
-        --color-secudario:#181818;
-    }
-}
+
 
 /*Por si usa alto contraste*/
 

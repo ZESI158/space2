@@ -259,12 +259,7 @@ body{
 }
     
 }
-@media (prefers-color-scheme:dark){
-    :root{
-        --color-primario: rgb(255, 255, 255);
-        --color-secudario:#ffffff;
-    }
-}
+
 
 @media screen and (min-width:800px) and (max-width:1124px){
     .box-content nav{
